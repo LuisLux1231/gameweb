@@ -76,6 +76,8 @@ body{
     height: 110px;
     justify-content: center;
 }
+.botones img{
+    width: 40px;
 .Tilte{
     font-size: 23px;
     align-content: center;
